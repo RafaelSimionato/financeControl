@@ -1,0 +1,124 @@
+
+body {
+    background-color: rgb(133, 133, 133);
+    color: rgb(41, 41, 43);
+    text-align: center;
+    font-family: Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right, rgb(48, 59, 59), rgb(179, 212, 212), rgb(179, 212, 212), rgb(48, 59, 59) );
+}
+
+a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: rgb(41, 41, 43);    
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+fieldset {
+    border-radius: 50px;
+    border-width: 10px;    
+    border-color: rgb(48, 59, 59);
+    background-image: linear-gradient(to left, rgb(76, 104, 104), rgb(179, 212, 212), rgb(179, 212, 212), rgb(76, 104, 104) );
+}
+
+fieldset#currency {
+    border-radius: 20px;
+    border-width: 3px;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    background-image: linear-gradient(to left, rgb(76, 104, 104), rgb(179, 212, 212), rgb(179, 212, 212), rgb(76, 104, 104));
+}
+
+fieldset#currency2 {
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: rgb(48, 59, 59);
+    text-align: center;
+    background-image: linear-gradient(to left, rgb(76, 104, 104), rgb(179, 212, 212), rgb(179, 212, 212), rgb(76, 104, 104));
+}
+
+
+header {
+    padding-top: 25px;
+}
+
+p#p1 {
+    /*text-transform: uppercase;*/
+    text-align: center;
+    color: rgb(56, 56, 56);
+    text-decoration-style: dashed;
+}
+
+div#language {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(223, 255, 255);
+}
+
+div#colors {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(223, 255, 255);
+}
+
+div#current {
+    text-align: right;
+}
+
+/*
+fieldset#colors {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(215, 216, 218);
+}
+*/
+
+a:link, a:visited, a:active {
+	text-decoration:none;
+	}
+
+a:hover {
+	/*text-decoration: underline;*/
+	color:rgb(255, 255, 255);
+	background:rgb(137, 146, 179);
+	}
+/*
+.select-estiloso {
+    width: 240px;
+    height: 34px;
+    overflow: hidden;
+    background: url(nova_setinha.jpg) no-repeat right #ddd;
+    border: 1px solid #ccc;
+    }   
+
+    .select-estiloso select {
+    background: transparent; 
+    width: 268px;
+    padding: 5px;
+    font-size: 16px;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 34px;
+    -webkit-appearance: none;
+    }
+*/
+/*
+select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: url(../images-select-angle-down.png) no-repeat center right #FFF;
+    border: 1px solid #333;
+    font-size: 15px;
+    padding-right: 20px;
+}
+*/

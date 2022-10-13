@@ -1,0 +1,68 @@
+
+body {
+    background-color: rgb(133, 133, 133);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right, rgb(12, 15, 15), rgb(33, 99, 99), rgb(33, 99, 99), rgb(12, 15, 15) );
+}
+
+a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);    
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    /*color: rgb(94, 255, 0);*/
+}
+
+fieldset {
+    border-radius: 50px;
+    border-width: 10px;    
+    border-color: rgb(112, 109, 70);
+    background-image: linear-gradient(to left, rgb(12, 15, 15), rgb(20, 37, 37), rgb(20, 37, 37), rgb(12, 15, 15) );
+}
+
+header {
+    padding-top: 25px;
+}
+
+p#p1 {
+    text-decoration: underline;
+}
+
+div#language {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(223, 255, 255);
+}
+
+div#colors {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(223, 255, 255);
+}
+
+/*
+fieldset#colors {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(215, 216, 218);
+}
+*/
+
+a:link, a:visited, a:active {
+	text-decoration:none;
+	}
+
+a:hover {
+	/*text-decoration: underline;*/
+	color:rgb(31, 31, 31);
+	background:rgb(251, 253, 142);
+	}

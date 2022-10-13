@@ -1,0 +1,60 @@
+
+body {
+    background-color: rgb(218, 218, 218);
+    color: rgb(240, 240, 241);
+    text-align: center;
+    font-family: Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right, rgb(223, 255, 255), rgb(179, 182, 212), rgb(179, 182, 212), rgb(223, 255, 255) );
+}
+
+a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: rgb(240, 240, 241);    
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+fieldset {
+    border-radius: 50px;
+    border-width: 10px;    
+    border-color: rgb(223, 255, 255);
+    background-image: linear-gradient(to left, rgb(223, 255, 255), rgb(135, 142, 223), rgb(135, 142, 223), rgb(223, 255, 255) );
+}
+
+header {
+    padding-top: 25px;
+}
+
+p#p1 {
+    text-decoration: underline;
+}
+
+fieldset#language {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(223, 255, 255);
+}
+
+fieldset#color {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(223, 255, 255);
+}
+
+a:link, a:visited, a:active {
+	text-decoration:none;
+	}
+
+a:hover {
+	/*text-decoration: underline;*/
+	color:rgb(99, 99, 99);
+	background:rgb(228, 118, 29);
+	}
+    
