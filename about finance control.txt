@@ -1,6 +1,9 @@
-About Finance Control official version 00
+@@ About Finance Control @@
+official version 00
 
-The Financial Control was created with the objective of facilitating the daily verification of the quotation of several currencies from all over the world as accurately and quickly as possible. Our system fetches the data through an API and is automatically forwarded to the Official Financial Control system, version 00
+The Financial Control was created with the objective of facilitating the daily verification of the quotation of several currencies from all over the world as accurately and quickly as possible
+
+Our system fetches the data through an API and is automatically forwarded to the Official Financial Control system, version 00
 
 Our Financial Control has several currencies, such as: Euro, Dollar (American, Canadian and Australian Dollar), in addition to other currencies such as Pound Sterling, Argentine Peso, Japanese YEN and Bitcoin
 
@@ -12,8 +15,10 @@ USER RESOURCES
 - Verification of values ​​in real time;
 (Never exceeding the maximum delay time of 15 minutes)
 - Educational information related to each available currency;
-- Available in three languages ​​(English, Dutch and Portuguese) * Soon also in Italian and Spanish and in the future in Chinese and Japanese;
-- Layout can be changed between Original, Light and Dark themes
+- Available in three languages ​​(English, Dutch and Portuguese) * Soon also in Italian and Spanish and in the future in Mandarin Chinese and Japanese;
+- * The version available in Dutch is still a testing version, and may contain spelling errors, as it has not yet been officially revised;
+- Layout can be changed between Original, Light and Dark themes;
+
 - In the future, new features may be implemented, depending on the needs of our users
 
 ----------
@@ -25,7 +30,7 @@ CONTROLE FINANCEIRO
 Oficial 2022, versão 00 Beta
 
 
-O Controle Financeiro foi criado com o objetivo de facilitar a verificação diaria da cotação de diversas moedas do mundo inteiro o mais precisamente e rápido possível. Nosso sistema busca os dados através de uma API e automaticamente é repassado ao sistema do Controle Financeiro Official, versão 00
+O Controle Financeiro foi criado com o objetivo de facilitar a verificação diaria da cotação de diversas moedas do mundo inteiro o mais precisamente e rápido possível Nosso sistema busca os dados através de uma API e automaticamente é repassado ao sistema do Controle Financeiro Official, versão 00
 
 Nosso Controle Financeiro possui diversas moedas, como, por exemplo: Euro, Dollar (Americano, Canadense e Dollar Australiano), além de outras moedas como a Libra Esterlina, Peso Argentino, YEN Japonês e o Bitcoin
 
@@ -40,9 +45,9 @@ RECURSOS AOS USUÁRIOS
 
 - Informações educativas relacionadas a cada moeda disponível;
 
-- Disponível em três idiomas (Inglês, Holândes e Português) * Em breve também em Italiano e Espanhol e futuramente em Chinês e Japonês;
-
-- O layout pode ser alterado entre os temas Original, Claro e Escuro
+- Disponível em três idiomas (Inglês, Holândes e Português) * Em breve também em Italiano e Espanhol e futuramente em Mandarin Chinês e Japonês;
+- *A versão disponibilizada em Holândes, é uma versão ainda de testes, e pode conter erros de grafia, pois, até este momento ainda não foi revisada oficialmente;
+- O layout pode ser alterado entre os temas Original, Claro e Escuro;
 
 - Futuramente novos recursos poderão ser implementados, dependendo da necessidade de nossos usuários
 
@@ -70,6 +75,8 @@ GEBRUIKERSBRONNEN
 - Verificatie van waarden in realtime;
 (Nooit de maximale vertragingstijd van 15 minuten overschrijden)
 - Educatieve informatie met betrekking tot elke beschikbare valuta;
-- Beschikbaar in drie talen (Engels, Nederlands en Portugees) * Binnenkort ook in het Italiaans en Spaans en in de toekomst in het Chinees en Japans;
-- Lay-out kan worden gewijzigd tussen originele, lichte en donkere thema's
+- Beschikbaar in drie talen (Engels, Nederlands en Portugees) * Binnenkort ook in het Italiaans en Spaans en in de toekomst in het Mandarin Chinees en Japans;
+- *De in Nederland beschikbare versie is nog een testversie en kan spelfouten bevatten, aangezien deze nog niet officieel is herzien;
+- Lay-out kan worden gewijzigd tussen originele, lichte en donkere thema's;
+
 - In de toekomst kunnen nieuwe functies worden geïmplementeerd, afhankelijk van de behoeften van onze gebruikers
