@@ -1,4 +1,4 @@
-@@ About Finance Control @@
+About Finance Control
 official version 00
 
 The Financial Control was created with the objective of facilitating the daily verification of the quotation of several currencies from all over the world as accurately and quickly as possible
