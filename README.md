@@ -1,12 +1,9 @@
-# financeControl
-currency quotes
+@@ About Finance Control @@
+official version 00
 
+The Financial Control was created with the objective of facilitating the daily verification of the quotation of several currencies from all over the world as accurately and quickly as possible
 
-Finance Control Currency Quote
-About Finance Control official version 00
-
-
-The Financial Control was created with the objective of facilitating the daily verification of the quotation of several currencies from all over the world as accurately and quickly as possible. Our system fetches the data through an API and is automatically forwarded to the Official Financial Control system, version 00
+Our system fetches the data through an API and is automatically forwarded to the Official Financial Control system, version 00
 
 Our Financial Control has several currencies, such as: Euro, Dollar (American, Canadian and Australian Dollar), in addition to other currencies such as Pound Sterling, Argentine Peso, Japanese YEN and Bitcoin
 
@@ -14,33 +11,26 @@ In addition to making the values ​​available in real time, never exceeding a
 
 Financial Control is available on the official SoftDrakula website https://www.softdrakula.com and is open source on GitHub
 
-
 USER RESOURCES
-
-
 - Verification of values ​​in real time;
 (Never exceeding the maximum delay time of 15 minutes)
-
 - Educational information related to each available currency;
-
-- Available in three languages ​​(English, Dutch and Portuguese) * Soon also in Italian and Spanish and in the future in Chinese and Japanese;
-
+- Available in three languages ​​(English, Dutch and Portuguese) * Soon also in Italian and Spanish and in the future in Mandarin Chinese and Japanese;
+- * The version available in Dutch is still a testing version, and may contain spelling errors, as it has not yet been officially revised;
 - Layout can be changed between Original, Light and Dark themes;
 
 - In the future, new features may be implemented, depending on the needs of our users
 
-
 ----------
 
-
-Em Português
-
+Em Português 
 
 CONTROLE FINANCEIRO
+
 Oficial 2022, versão 00 Beta
 
 
-O Controle Financeiro foi criado com o objetivo de facilitar a verificação diaria da cotação de diversas moedas do mundo inteiro o mais precisamente e rápido possível. Nosso sistema busca os dados através de uma API e automaticamente é repassado ao sistema do Controle Financeiro Official, versão 00
+O Controle Financeiro foi criado com o objetivo de facilitar a verificação diaria da cotação de diversas moedas do mundo inteiro o mais precisamente e rápido possível Nosso sistema busca os dados através de uma API e automaticamente é repassado ao sistema do Controle Financeiro Official, versão 00
 
 Nosso Controle Financeiro possui diversas moedas, como, por exemplo: Euro, Dollar (Americano, Canadense e Dollar Australiano), além de outras moedas como a Libra Esterlina, Peso Argentino, YEN Japonês e o Bitcoin
 
@@ -48,16 +38,15 @@ Além de disponibilizar em tempo real os valores, nunca ultrapassando um delay s
 
 O Controle Financeiro, está disponível no site oficial da SoftDrakula https://www.softdrakula.com e possui código aberto no GitHub
 
-
 RECURSOS AOS USUÁRIOS
 
-
-- Verificação de valores em tempo real; (Nunca ultrapassando o tempo máximo de 15 minutos de delay)
+- Verificação de valores em tempo real;
+(Nunca ultrapassando o tempo máximo de 15 minutos de delay)
 
 - Informações educativas relacionadas a cada moeda disponível;
 
-- Disponível em três idiomas (Inglês, Holândes e Português) * Em breve também em Italiano e Espanhol e futuramente em Chinês e Japonês;
-
+- Disponível em três idiomas (Inglês, Holândes e Português) * Em breve também em Italiano e Espanhol e futuramente em Mandarin Chinês e Japonês;
+- *A versão disponibilizada em Holândes, é uma versão ainda de testes, e pode conter erros de grafia, pois, até este momento ainda não foi revisada oficialmente;
 - O layout pode ser alterado entre os temas Original, Claro e Escuro;
 
 - Futuramente novos recursos poderão ser implementados, dependendo da necessidade de nossos usuários
@@ -68,9 +57,10 @@ RECURSOS AOS USUÁRIOS
 
 in het Nederlands
 
-Financiële controle Valutacitaat
-Over Finance Control officiële versie 00
 
+Financiële controle Valutacitaat
+
+Over Finance Control officiële versie 00
 
 De Financiële Controle is in het leven geroepen met als doel de dagelijkse verificatie van de notering van verschillende valuta's van over de hele wereld zo nauwkeurig en snel mogelijk te vergemakkelijken. Ons systeem haalt de gegevens op via een API en wordt automatisch doorgestuurd naar het officiële financiële controlesysteem, versie 00
 
@@ -80,18 +70,13 @@ Naast het in realtime beschikbaar maken van de waarden, met een vertraging van n
 
 Financial Control is beschikbaar op de officiële SoftDrakula-website https://www.softdrakula.com en is open source op GitHub
 
-
 GEBRUIKERSBRONNEN
-
 
 - Verificatie van waarden in realtime;
 (Nooit de maximale vertragingstijd van 15 minuten overschrijden)
-
 - Educatieve informatie met betrekking tot elke beschikbare valuta;
-
-- Beschikbaar in drie talen (Engels, Nederlands en Portugees) * Binnenkort ook in het Italiaans en Spaans en in de toekomst in het Chinees en Japans;
-
+- Beschikbaar in drie talen (Engels, Nederlands en Portugees) * Binnenkort ook in het Italiaans en Spaans en in de toekomst in het Mandarin Chinees en Japans;
+- *De in Nederland beschikbare versie is nog een testversie en kan spelfouten bevatten, aangezien deze nog niet officieel is herzien;
 - Lay-out kan worden gewijzigd tussen originele, lichte en donkere thema's;
 
 - In de toekomst kunnen nieuwe functies worden geïmplementeerd, afhankelijk van de behoeften van onze gebruikers
-
